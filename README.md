@@ -24,6 +24,8 @@ Power Grid Simulator can be incredibly beneficial for utility managers, energy c
 | Sound Energy        | High              | High                  | High                 | Electricity (difficult, rare)   |
 
 #
+![Frankenstein Switch](https://github.com/user-attachments/assets/4034a0c4-b7bb-49e6-95ca-509629fe3b76)
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
